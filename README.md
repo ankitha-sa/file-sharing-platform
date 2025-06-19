@@ -22,6 +22,7 @@ Backend (Server):
 bash
 
 cd server
+
 node server.js
 
 Frontend (Client):
@@ -29,7 +30,9 @@ Frontend (Client):
 bash
 
 cd client
+
 npm run dev
+
 Then go to http://localhost:3000 in your browser.
 
 
