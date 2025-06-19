@@ -20,15 +20,14 @@ In two separate terminals:
 Backend (Server):
 
 bash
-Copy
-Edit
+
 cd server
 node server.js
+
 Frontend (Client):
 
 bash
-Copy
-Edit
+
 cd client
 npm run dev
 Then go to http://localhost:3000 in your browser.
