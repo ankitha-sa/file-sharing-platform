@@ -1,0 +1,7 @@
+ip-10-0-1-15.ec2.internal
+
+
+https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#SecurityGroup:securityGroupId=sg-087ea9d6641fe5185
+
+
+10.0.1.15

@@ -1,0 +1,35 @@
+[
+  {
+    "username": "fix",
+    "password": "$2b$10$eseRvJGyYE5rt1RKKZcp/.6nwxPSCkpRVYM/f.0YhzNy42qT9A.Ii"
+  },
+  {
+    "username": "fixme",
+    "password": "$2b$10$d4wz/qB1f9t4TyCzaFd6ROl4ppFQ0I.GC3rQa6twsXsEmrp25nOQW"
+  },
+  {
+    "username": "adya",
+    "email": "adya@gmail.com",
+    "password": "$2b$10$K7TGRALJ06aKm0VoCnRihuIPHcLKD/1G8inJrH48hKfzDfuYtecB."
+  },
+  {
+    "username": "xyz",
+    "email": "xyz@gmail.com",
+    "password": "$2b$10$u7CJX0ewffaVUg9OpONhD.h9wTIrBNwQ/w6SrLvTJ3Zs1D0exUDgq"
+  },
+  {
+    "username": "xyz",
+    "email": "xyz@gmail.com",
+    "password": "$2b$10$W384fiw/6CgRNTBCu9ZHrOXld7jHmejRUx9t/RVjGFPhJIUptaHSe"
+  },
+  {
+    "username": "fixme",
+    "email": "fixme@example.com",
+    "password": "$2b$10$I/cyOF/zsEW1Qh2fGgjpEecLgcGGB4t5IS8ur4ZaJvMSvWN0AfONi"
+  },
+  {
+    "username": "hihello",
+    "email": "hihello@gmail.com",
+    "password": "$2b$10$MkZkH83RW7TzZWxXo214ZORKq56cczKWK8u9Vjn8uD4Ejp.WGEXni"
+  }
+]
